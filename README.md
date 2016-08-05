@@ -2,7 +2,7 @@
 
 #### Profile page outlining projects complete, 08.05.2016
 
-#### By Nicolas Hurtado
+### By Nicolas Hurtado
 
 ## Description
 
