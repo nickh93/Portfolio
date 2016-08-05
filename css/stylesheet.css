@@ -1,8 +1,17 @@
-.intro h1 {
+.intro h1, h2 {
   margin: 20px;
   text-align: center;
 }
 
 .intro p {
   margin: 20px;
+}
+
+.intro img {
+  width: 400px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
 }
