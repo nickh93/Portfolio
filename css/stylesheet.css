@@ -7,7 +7,7 @@
   margin: 20px;
 }
 
-.intro img {
+img {
   width: 400px;
   height: 500px;
   display: block;
@@ -29,4 +29,12 @@ body {
 
 img {
   border-radius: 150px;
+}
+
+.welcome{
+  text-align: center;
+}
+
+span {
+  color: 	#a6a6a6;
 }
